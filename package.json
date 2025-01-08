@@ -1,0 +1,14 @@
+{
+  "name": "codingchallenges",
+  "version": "1.0.0",
+  "description": "Simple I/O app for solving coding challeneges and javascript problem solving",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Moe Machef",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "20.0.4"
+  }
+}
